@@ -8,8 +8,6 @@ Hi there 👋, I'm Krunal Chauhan, a Full-Stack JavaScript Developer with experi
 
 Meditation application with Firebase database and in-app-purchase. Session-wise meditation with bundles. Monthly, yearly, and lifetime access are available. First 10 days are free to use, after that users need to purchase it.
 
-![DiveThru App Screenshots](./assets/divethru.png)
-
 - React-Native App
 - JavaScript core Web
 - App Store: [https://apps.apple.com/CA/app/id1383605874?mt=8](https://apps.apple.com/CA/app/id1383605874?mt=8)
@@ -34,8 +32,6 @@ IoT device management app for temperature control and device on/off functionalit
   - AppSync
   - Cognito
   - API Gateway
-
-![TFG_Wifi_Grill_App Screenshots](./assets/tfg_wifi_grill_app.png)
 
 - Play Store: [https://play.google.com/store/apps/details?id=com.easyconnect.tfg&hl=en_SG&gl=US](https://play.google.com/store/apps/details?id=com.easyconnect.tfg&hl=en_SG&gl=US)
 
