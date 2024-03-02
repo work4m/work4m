@@ -114,7 +114,3 @@ Website and tools for graphs and marketing on social media and search engines li
 
 JavaScript, React, React-Native, Node.js
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/krunal-chauhan-104ba1167/)
-
